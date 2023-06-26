@@ -1,1 +1,2 @@
 Hola, me conecte por Telnel
+Hola, me conecte por SSH
